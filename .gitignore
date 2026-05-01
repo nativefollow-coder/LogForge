@@ -1,0 +1,12 @@
+﻿## Ignorar pastas e arquivos do Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.slnx
+LogForge/LogForge/   # Se houver duplicação (veja nota abaixo)
+
+## Ignorar arquivos temporários do Windows
+Thumbs.db
+desktop.ini
